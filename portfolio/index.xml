@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolios on Jord Liu</title>
+    <title>Portfolios on Jord Liu | Portfolio</title>
     <link>https://jminjie.com/portfolio/</link>
-    <description>Recent content in Portfolios on Jord Liu</description>
+    <description>Recent content in Portfolios on Jord Liu | Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -70,7 +70,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jminjie.com/portfolio/stenographer/</guid>
-      <description>&lt;p&gt;The Stenographer turns your audio into sheet music.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The Stenographer turns your audio into sheet music (poorly).&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -79,7 +79,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jminjie.com/portfolio/thumbpoems/</guid>
-      <description>&lt;p&gt;Poems penned on phones.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A collection of reader-submitted written and found poetry from smart phones.&lt;/p&gt;</description>
     </item>
     
     <item>
