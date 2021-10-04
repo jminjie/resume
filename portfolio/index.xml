@@ -21,16 +21,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jminjie.com/portfolio/fourhands/</guid>
-      <description>&lt;p&gt;A low-latency p2p online shared piano.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A low-latency shared piano for two musicians to jam online.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Narrative</title>
-      <link>https://jminjie.com/portfolio/narrative/</link>
+      <title>Irregular Circle</title>
+      <link>https://jminjie.com/portfolio/circle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jminjie.com/portfolio/narrative/</guid>
-      <description>&lt;p&gt;Just a plain website.&lt;/p&gt;</description>
+      <guid>https://jminjie.com/portfolio/circle/</guid>
+      <description>&lt;p&gt;An in-browser drum machine which uses irregularity.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,7 +39,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jminjie.com/portfolio/partpoems/</guid>
-      <description>&lt;p&gt;A poetry e-zine.&lt;/p&gt;</description>
+      <description>&lt;p&gt;An illustrated poetry e-zine using Bananagrams.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -48,7 +48,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jminjie.com/portfolio/projections/</guid>
-      <description>&lt;p&gt;Using Word2Vec to sort ungendered objects by gender.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Collection of executable poetry using Word2Vec to sort ungendered objects by gender.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -75,17 +75,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jminjie.com/portfolio/stenographer/</guid>
-      <description>&lt;p&gt;The Stenographer turns your audio into sheet music (poorly) which you can then listen to in your browser.&lt;/p&gt;
-&lt;p&gt;The generated piece is named using speech recognition.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Thumbpoems</title>
-      <link>https://jminjie.com/portfolio/thumbpoems/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jminjie.com/portfolio/thumbpoems/</guid>
-      <description>&lt;p&gt;A collection of reader-submitted written and found poetry from smart phones.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The Stenographer turns your audio into sheet music (poorly) which you can then listen to in your browser.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -98,12 +88,39 @@
     </item>
     
     <item>
+      <title>Narrative</title>
+      <link>https://jminjie.com/portfolio/narrative/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jminjie.com/portfolio/narrative/</guid>
+      <description>&lt;p&gt;Just a plain website.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Leave the Light Off</title>
       <link>https://jminjie.com/portfolio/lightoff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jminjie.com/portfolio/lightoff/</guid>
       <description>&lt;p&gt;Please leave the light off.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Thumbpoems</title>
+      <link>https://jminjie.com/portfolio/thumbpoems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jminjie.com/portfolio/thumbpoems/</guid>
+      <description>&lt;p&gt;A collection of reader-submitted written and found poetry from smart phones.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ask Jordan</title>
+      <link>https://jminjie.com/portfolio/askjordan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jminjie.com/portfolio/askjordan/</guid>
+      <description>&lt;p&gt;A search engine that answers queries by texting Jordan and waiting for a response.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -121,25 +138,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jminjie.com/portfolio/westworld/</guid>
-      <description>&lt;p&gt;My submission for the Westworld Scoring Contest.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Ask Jordan</title>
-      <link>https://jminjie.com/portfolio/askjordan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jminjie.com/portfolio/askjordan/</guid>
-      <description>&lt;p&gt;A search engine that answers queries by texting Jordan and waiting for a response.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Don&#39;t look at me</title>
-      <link>https://jminjie.com/portfolio/dontlook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jminjie.com/portfolio/dontlook/</guid>
-      <description>&lt;p&gt;What does it feel like to be watched?&lt;/p&gt;</description>
+      <description>&lt;p&gt;An unofficial scene for Westworld which I scored.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -149,6 +148,15 @@
       
       <guid>https://jminjie.com/portfolio/murder/</guid>
       <description>&lt;p&gt;Escape room and murder mystery party.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t look at me</title>
+      <link>https://jminjie.com/portfolio/dontlook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jminjie.com/portfolio/dontlook/</guid>
+      <description>&lt;p&gt;What does it feel like to be watched?&lt;/p&gt;</description>
     </item>
     
     <item>
