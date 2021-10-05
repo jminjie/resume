@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jminjie.com/portfolio/baked/</guid>
-      <description>&lt;p&gt;Baked! The Musical is an all-Asian show about cannabis-infused Chinese bakery edibles.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Baked! The Musical is a full length musical about cannabis-infused Chinese bakery edibles, featuring an all-Asian cast.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -31,15 +31,6 @@
       
       <guid>https://jminjie.com/portfolio/circle/</guid>
       <description>&lt;p&gt;An in-browser drum machine which uses irregularity.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Part Poems</title>
-      <link>https://jminjie.com/portfolio/partpoems/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jminjie.com/portfolio/partpoems/</guid>
-      <description>&lt;p&gt;An illustrated poetry e-zine using Bananagrams.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -79,12 +70,12 @@
     </item>
     
     <item>
-      <title>TypeByke</title>
-      <link>https://jminjie.com/portfolio/typebyke/</link>
+      <title>Ask Jordan</title>
+      <link>https://jminjie.com/portfolio/askjordan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jminjie.com/portfolio/typebyke/</guid>
-      <description>&lt;p&gt;TypeByke is a local 0-2 player game that combines Tron and Scrabble.&lt;/p&gt;</description>
+      <guid>https://jminjie.com/portfolio/askjordan/</guid>
+      <description>&lt;p&gt;A search engine that answers queries by texting Jordan and waiting for a response.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -93,7 +84,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jminjie.com/portfolio/narrative/</guid>
-      <description>&lt;p&gt;Just a plain website.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Just a plain website. (A ten minute interactive experience about online narratives.)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Part Poems</title>
+      <link>https://jminjie.com/portfolio/partpoems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jminjie.com/portfolio/partpoems/</guid>
+      <description>&lt;p&gt;An illustrated poetry e-zine using Bananagrams.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TypeByke</title>
+      <link>https://jminjie.com/portfolio/typebyke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jminjie.com/portfolio/typebyke/</guid>
+      <description>&lt;p&gt;TypeByke is an in-browser game for between 0 and 2 local players that combines Tron and Scrabble.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -112,15 +121,6 @@
       
       <guid>https://jminjie.com/portfolio/thumbpoems/</guid>
       <description>&lt;p&gt;A collection of reader-submitted written and found poetry from smart phones.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Ask Jordan</title>
-      <link>https://jminjie.com/portfolio/askjordan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jminjie.com/portfolio/askjordan/</guid>
-      <description>&lt;p&gt;A search engine that answers queries by texting Jordan and waiting for a response.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -147,7 +147,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jminjie.com/portfolio/murder/</guid>
-      <description>&lt;p&gt;Escape room and murder mystery party.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A writeup of an escape room and murder mystery party.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -165,7 +165,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jminjie.com/portfolio/superlink/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Upgrade&amp;rdquo; your hyperlinks into Superlinks.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&amp;ldquo;Upgrade&amp;rdquo; your hyperlinks into Superlinks with this Chrome extension.&lt;/p&gt;</description>
     </item>
     
   </channel>
