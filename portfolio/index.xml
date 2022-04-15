@@ -7,21 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://jminjie.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Finger Memory</title>
+      <link>https://jminjie.com/portfolio/fingermemory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jminjie.com/portfolio/fingermemory/</guid>
+      <description>&lt;p&gt;Physical installation at Canessa Gallery SF as part of Electrical Health.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Spolling Bree</title>
       <link>https://jminjie.com/portfolio/spolling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jminjie.com/portfolio/spolling/</guid>
       <description>&lt;p&gt;A parody of the NYT Spelling Bee game which uses only plausible but fake words.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Fourhands</title>
-      <link>https://jminjie.com/portfolio/fourhands/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jminjie.com/portfolio/fourhands/</guid>
-      <description>&lt;p&gt;A low-latency shared piano for two musicians to jam online.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -94,6 +94,15 @@
       
       <guid>https://jminjie.com/portfolio/dontlook/</guid>
       <description>&lt;p&gt;What does it feel like to be watched?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fourhands</title>
+      <link>https://jminjie.com/portfolio/fourhands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jminjie.com/portfolio/fourhands/</guid>
+      <description>&lt;p&gt;A low-latency shared piano for two musicians to jam online.&lt;/p&gt;</description>
     </item>
     
     <item>
